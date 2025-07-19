@@ -1,0 +1,11 @@
+{
+  "card-title": "USD currency rate",
+  "nbu-rate-title": "NBU Rate:",
+  "deal-rate-title": "Deal Rate:",
+  "diff-title": "Difference (%):",
+  "update-btn": "Write the rate into the deal",
+  "alert-update-success": "The rate has been updated successfully. After refreshing the deal page, you will see the new value.",
+  "alert-update-error": "Error: Failed to update the rate in the deal.",
+  "alert-load-error": "Error: Failed to retrieve NBU rate or deal data."
+}
+
